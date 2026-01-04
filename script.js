@@ -32,6 +32,11 @@
       if(ev.key === 'Escape') setState(false);
     });
   }
+
+  // Safe JSON parsing helper so one malformed attribute doesn't break the whole script
+  function safeParseJSON(str){
+    try { return JSON.parse(str); } catch(e){ return null; }
+  }
   const key = 'brc_lang';
   function getQueryLang(){
     const m = new URLSearchParams(window.location.search).get('lang');
@@ -46,21 +51,25 @@
       b.classList.toggle('active', b.getAttribute('data-langbtn')===lang);
     });
     document.querySelectorAll('[data-i18n]').forEach(el=>{
-      const obj = JSON.parse(el.getAttribute('data-i18n'));
+      const obj = safeParseJSON(el.getAttribute('data-i18n'));
+      if(!obj) return;
       el.innerHTML = obj[lang] || obj['en'] || '';
     });
     document.querySelectorAll('[data-i18n-placeholder]').forEach(el=>{
-      const obj = JSON.parse(el.getAttribute('data-i18n-placeholder'));
+      const obj = safeParseJSON(el.getAttribute('data-i18n-placeholder'));
+      if(!obj) return;
       el.setAttribute('placeholder', obj[lang] || obj['en'] || '');
     });
     const seoTitle = document.querySelector('meta[name="page-title"]');
     const seoDesc = document.querySelector('meta[name="description"]');
     if(seoTitle){
-      const obj = JSON.parse(seoTitle.getAttribute('data-i18n-content'));
+      const obj = safeParseJSON(seoTitle.getAttribute('data-i18n-content'));
+      if(obj)
       document.title = obj[lang] || obj['en'] || document.title;
     }
     if(seoDesc){
-      const obj = JSON.parse(seoDesc.getAttribute('data-i18n-content'));
+      const obj = safeParseJSON(seoDesc.getAttribute('data-i18n-content'));
+      if(obj)
       seoDesc.setAttribute('content', obj[lang] || obj['en'] || seoDesc.getAttribute('content'));
     }
     const path = (location.pathname.split('/').pop() || 'index.html').toLowerCase();
@@ -77,12 +86,12 @@
   const stored = localStorage.getItem(key);
   const browserIsES = (navigator.language || 'en').toLowerCase().startsWith('es');
   const initial = q || stored || (browserIsES ? 'es' : 'en');
-  setLang(initial);
+  // Setup nav first so it still works even if translations have issues
   setupMobileNav();
+  setLang(initial);
   document.querySelectorAll('[data-langbtn]').forEach(b=>{
     b.addEventListener('click', ()=>setLang(b.getAttribute('data-langbtn')));
   });
   const y = document.getElementById('y');
   if(y) y.textContent = new Date().getFullYear();
-  setupMobileNav();
 })();
