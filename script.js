@@ -1,4 +1,37 @@
 (function(){
+  // Mobile nav toggle (hamburger)
+  function setupMobileNav(){
+    const btn = document.querySelector('.menuToggle');
+    const nav = document.getElementById('primaryNav');
+    if(!btn || !nav) return;
+
+    const setState = (open)=>{
+      document.body.classList.toggle('nav-open', open);
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      btn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    };
+
+    btn.addEventListener('click', (e)=>{
+      e.preventDefault();
+      const openNow = !document.body.classList.contains('nav-open');
+      setState(openNow);
+    });
+
+    // Close menu when clicking a link
+    nav.querySelectorAll('a').forEach(a=>{
+      a.addEventListener('click', ()=>setState(false));
+    });
+
+    // Close menu on resize back to desktop
+    window.addEventListener('resize', ()=>{
+      if(window.innerWidth > 920) setState(false);
+    });
+
+    // Close menu on Escape
+    window.addEventListener('keydown', (ev)=>{
+      if(ev.key === 'Escape') setState(false);
+    });
+  }
   const key = 'brc_lang';
   function getQueryLang(){
     const m = new URLSearchParams(window.location.search).get('lang');
@@ -45,9 +78,11 @@
   const browserIsES = (navigator.language || 'en').toLowerCase().startsWith('es');
   const initial = q || stored || (browserIsES ? 'es' : 'en');
   setLang(initial);
+  setupMobileNav();
   document.querySelectorAll('[data-langbtn]').forEach(b=>{
     b.addEventListener('click', ()=>setLang(b.getAttribute('data-langbtn')));
   });
   const y = document.getElementById('y');
   if(y) y.textContent = new Date().getFullYear();
+  setupMobileNav();
 })();
