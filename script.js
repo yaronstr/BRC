@@ -1,9 +1,22 @@
 (function(){
   // Mobile nav toggle (hamburger)
   function setupMobileNav(){
-    const btn = document.querySelector('.menuToggle');
     const nav = document.getElementById('primaryNav');
-    if(!btn || !nav) return;
+    if(!nav) return;
+
+    // Prefer CSS-only checkbox toggle if present
+    const checkbox = document.querySelector('.navToggle');
+    if(checkbox){
+      const close = ()=>{ checkbox.checked = false; };
+      nav.querySelectorAll('a').forEach(a=>a.addEventListener('click', close));
+      window.addEventListener('resize', ()=>{ if(window.innerWidth > 920) close(); });
+      window.addEventListener('keydown', (ev)=>{ if(ev.key === 'Escape') close(); });
+      return;
+    }
+
+    // Fallback: JS-controlled body class (if checkbox isn't present)
+    const btn = document.querySelector('.menuToggle');
+    if(!btn) return;
 
     const setState = (open)=>{
       document.body.classList.toggle('nav-open', open);
@@ -17,21 +30,19 @@
       setState(openNow);
     });
 
-    // Close menu when clicking a link
     nav.querySelectorAll('a').forEach(a=>{
       a.addEventListener('click', ()=>setState(false));
     });
 
-    // Close menu on resize back to desktop
     window.addEventListener('resize', ()=>{
       if(window.innerWidth > 920) setState(false);
     });
 
-    // Close menu on Escape
     window.addEventListener('keydown', (ev)=>{
       if(ev.key === 'Escape') setState(false);
     });
   }
+
 
   // Safe JSON parsing helper so one malformed attribute doesn't break the whole script
   function safeParseJSON(str){
