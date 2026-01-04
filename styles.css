@@ -284,6 +284,7 @@ label{font-size:12px;font-weight:900;color:var(--muted2);display:block;margin:0 
 
 .heroPortrait{width:100%;max-width:360px;height:auto;border-radius:18px;display:block;margin:0 auto 14px;}
 
+
 /* ===== MOBILE LANGUAGE SWITCH FIX ===== */
 @media (max-width: 768px) {
   header,
