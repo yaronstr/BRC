@@ -208,7 +208,7 @@ label{font-size:12px;font-weight:900;color:var(--muted2);display:block;margin:0 
 @media (max-width: 920px){
   .menuToggle{display:inline-flex}
   /* Keep language pills visible, collapse nav into a dropdown */
-  .nav{gap:12px;align-items:center}
+  .nav{gap:12px;align-items:center;flex-wrap:wrap}
   .navlinks{display:none}
   .navToggle:checked + .menuToggle + .navlinks,
   body.nav-open .navlinks{
@@ -227,6 +227,9 @@ label{font-size:12px;font-weight:900;color:var(--muted2);display:block;margin:0 
     backdrop-filter: blur(10px);
   }
   body.nav-open .navlinks a{padding:12px 12px;font-size:16px}
+
+  /* Make sure the language switch is always visible on small screens */
+  .langPills{width:100%;justify-content:flex-end;margin-left:0}
 }
 
 /* Smaller header + spacing on phones */
