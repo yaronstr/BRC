@@ -283,3 +283,33 @@ label{font-size:12px;font-weight:900;color:var(--muted2);display:block;margin:0 
 
 
 .heroPortrait{width:100%;max-width:360px;height:auto;border-radius:18px;display:block;margin:0 auto 14px;}
+
+/* ===== MOBILE LANGUAGE SWITCH FIX ===== */
+@media (max-width: 768px) {
+  header,
+  .header,
+  .site-header {
+    overflow: visible !important;
+  }
+
+  .lang-switch,
+  .language-switch,
+  .lang-toggle {
+    position: relative !important;
+    right: auto !important;
+    left: auto !important;
+    margin: 12px auto 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    width: 100%;
+    z-index: 1001;
+  }
+
+  .lang-switch a,
+  .language-switch a {
+    padding: 6px 10px;
+    font-size: 14px;
+    white-space: nowrap;
+  }
+}
