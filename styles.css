@@ -47,7 +47,7 @@ img{max-width:100%}
 .card.glow{box-shadow: var(--shadow);border-color: rgba(42,111,151,.22);}
 .section{padding:26px 0}
 .h2{font-size:28px;margin:0 0 10px;letter-spacing:-0.01em}
-.h3{font-weight: 700;              /* keep headers strong */
+.h3{font-size:28px;font-weight: 700;              /* keep headers strong */
   color: #0a3d62;               /* your brand-style blue */
   margin-bottom: 4px;}
 
@@ -58,7 +58,10 @@ img{max-width:100%}
 .list{margin:10px 0 0;padding-left:18px;color:var(--muted);line-height:1.75}
 .pricing{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
 @media (max-width: 920px){ .pricing{grid-template-columns:1fr} }
-.price{font-size:30px;font-weight:950;margin:10px 0}
+.price{font-weight: normal;          /* remove bold */
+  font-size: 15px;              /* smaller */
+  color: #666;                  /* softer than header */
+  margin-bottom: 8px;}
 .chip{display:inline-flex;align-items:center;gap:8px;font-size:12px;font-weight:900;border:1px solid var(--border);border-radius:999px;padding:8px 10px;background:rgba(244,208,111,.20)}
 .notice{border-left:3px solid var(--accent2);padding-left:12px}
 .hr{height:1px;background:var(--border);margin:14px 0}
