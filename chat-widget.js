@@ -312,5 +312,6 @@
     inputEl.style.height = 'auto';
     inputEl.style.height = Math.min(inputEl.scrollHeight, 80) + 'px';
   });
+  
 
 })();
