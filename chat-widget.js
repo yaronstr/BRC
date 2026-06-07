@@ -206,9 +206,21 @@
       align-items: center;
       justify-content: center;
     }
-    @media (max-width: 400px) {
-      #brc-chat-window { right: 8px; bottom: 80px; width: calc(100vw - 16px); }
-      #brc-chat-btn { right: 8px; bottom: 80px; }
+    @media (max-width: 600px) {
+      #brc-chat-window {
+        right: 0 !important;
+        left: 0 !important;
+        bottom: 0 !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        height: 70vh !important;
+        max-height: 70vh !important;
+        border-radius: 16px 16px 0 0 !important;
+      }
+      #brc-chat-btn {
+        right: 24px !important;
+        bottom: 90px !important;
+      }
     }
   `;
   document.head.appendChild(style);
@@ -312,6 +324,5 @@
     inputEl.style.height = 'auto';
     inputEl.style.height = Math.min(inputEl.scrollHeight, 80) + 'px';
   });
-  
 
 })();
