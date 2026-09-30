@@ -1,209 +1,90 @@
-# BCN RECOVERY CARE — KNOWLEDGE BASE
-# Version 1.0 | Language: English (Spanish translations inline where relevant)
-# This file is used as context for the AI chat assistant on bcnrecoverycare.es
+# BRC — CONFIRMED SERVICES
+Updated 30 September 2026. Owner-confirmed scope overrides older information.
 
----
+BRC helps you select an independent surgeon and coordinates with your selected surgeon and clinic. We offer private apartments and agreed post-operative recovery treatments. We do not provide hospital beds, nursing services, adapted meals, flights or any transport arrangements. Surgery, medical care and clinical follow-up are provided by the independent surgeon and clinic.
 
-## ABOUT BCN RECOVERY CARE
+BRC te ayuda a seleccionar un cirujano independiente y coordina con el cirujano y la clínica elegidos. Ofrecemos apartamentos privados y tratamientos de recuperación postoperatoria acordados. No ofrecemos camas hospitalarias, enfermería, comidas adaptadas ni organización de vuelos o transportes. La cirugía, atención médica y seguimiento clínico corresponden al cirujano y la clínica independientes.
 
-BCN Recovery Care is a premium post-operative and aesthetic recovery service based in L'Hospitalet de Llobregat, Barcelona, Spain. We specialise in providing a safe, comfortable, and professionally supervised environment for patients recovering from aesthetic and cosmetic surgeries. Our service bridges the gap between hospital discharge and returning home — offering medical-grade care in a warm, home-like setting.
+SERVICE_SCOPE
+BRC helps you select an independent surgeon and coordinates with your selected surgeon and clinic. We offer private apartments and agreed post-operative recovery treatments. We do not provide hospital beds, nursing services, adapted meals, flights or any transport arrangements. Surgery, medical care and clinical follow-up are provided by the independent surgeon and clinic.
+BRC te ayuda a seleccionar un cirujano independiente y coordina con el cirujano y la clínica elegidos. Ofrecemos apartamentos privados y tratamientos de recuperación postoperatoria acordados. No ofrecemos camas hospitalarias, enfermería, comidas adaptadas ni organización de vuelos o transportes. La cirugía, atención médica y seguimiento clínico corresponden al cirujano y la clínica independientes.
 
-We serve both local Barcelona residents and international medical tourists who come to Barcelona for surgery and need a trusted place to recover before travelling home.
+SURGEONSELECTION
+Yes. BRC helps you select an independent surgeon for the procedure you are considering and coordinates with the selected surgeon and clinic: initial contact, consultation, their proposal, the surgery date and your BRC recovery arrangements. The surgeon decides suitability, the clinical plan and follow-up. Start with WhatsApp +34 618 254 217 and the private enquiry form before the welcome call. We do not arrange flights or transport.
+Sí. BRC te ayuda a seleccionar un cirujano independiente para la intervención que estás considerando y coordina con el cirujano y la clínica elegidos: contacto inicial, consulta, propuesta, fecha de cirugía y recuperación con BRC. El cirujano decide idoneidad, plan clínico y seguimiento. Empieza por WhatsApp +34 618 254 217 y el formulario privado antes de la llamada de bienvenida. No organizamos vuelos ni transportes.
 
-Our address is in L'Hospitalet de Llobregat, within minutes of major Barcelona clinics and hospitals.
+MEDICAL
+BRC helps you select an independent surgeon and coordinates with your selected surgeon and clinic. We offer private apartments and agreed post-operative recovery treatments. We do not provide hospital beds, nursing services, adapted meals, flights or any transport arrangements. Surgery, medical care and clinical follow-up are provided by the independent surgeon and clinic.
+BRC te ayuda a seleccionar un cirujano independiente y coordina con el cirujano y la clínica elegidos. Ofrecemos apartamentos privados y tratamientos de recuperación postoperatoria acordados. No ofrecemos camas hospitalarias, enfermería, comidas adaptadas ni organización de vuelos o transportes. La cirugía, atención médica y seguimiento clínico corresponden al cirujano y la clínica independientes.
 
----
+APARTMENTS
+BRC can include a private, fully equipped recovery apartment in your agreed plan. The building has lift access and the apartments have private balconies. We confirm the apartment layout, access and suitability for your practical needs before booking. Accommodation and recovery services are itemised in your BRC quote.
+Disponemos de apartamentos privados de recuperación en Barcelona. Confirmamos disponibilidad, distribución, accesibilidad y necesidades antes de reservar. No se presuponen cuidados clínicos permanentes ni servicios adicionales: se detallan en tu propuesta.
 
-## ABOUT SUSANA — FOUNDER & CARE MANAGER
+COMPANION
+In many cases a companion can stay, depending on the apartment layout and your recovery requirements. Tell us before booking so we can confirm space, arrangements and any extra cost. Whether you need an accompanying adult is decided as part of the surgeon’s protocol and your practical recovery plan.
+A menudo puede alojarse un acompañante, según el apartamento y tus necesidades. Comunícanoslo antes de reservar para confirmar distribución, disponibilidad y coste.
 
-Susana is the founder and heart of BCN Recovery Care. With over 15 years of experience in nursing and post-operative care, she has dedicated her career to helping patients feel safe, cared for, and comfortable during the most vulnerable period following surgery.
+ALONE
+Tell us early if you plan to travel alone. The surgeon’s instructions, your mobility and the support you need determine whether that is workable. We confirm the practical arrangements with you before booking; some procedures may require an accompanying adult.
+Indica en el formulario si viajas sin acompañante. Confirmaremos el apoyo práctico y el alojamiento adecuados junto con las exigencias de la clínica. No se garantiza supervisión clínica las 24 horas.
 
-Susana trained as a registered nurse in Spain and later specialised in aesthetic and reconstructive surgery recovery. She has worked alongside leading plastic surgeons in Barcelona, developing a deep understanding of what patients truly need in the hours and days following their procedure.
+LIPEDEMA
+Our lipedema pathway combines specialist consultation with an individually planned recovery stay. The indicative clinic fee is €8,000–€12,000 and the current recovery-planning range is 8–15 days. BRC coordination, accommodation, recovery services and travel are additional unless expressly included. The surgeon confirms areas, any stages, support requirements and your return date.
+Para lipedema: honorarios orientativos de clínica de 8.000–12.000 € y planificación de recuperación de 8–15 días. El cirujano confirma zonas, etapas, estancia y fecha segura de viaje. Coordinación, alojamiento y tratamientos de recuperación se presupuestan aparte. Organizas tus propios vuelos y transportes.
 
-Her philosophy is simple: recovery is not just physical. Emotional support, clear communication, and a calm environment are just as important as medical monitoring. Susana personally oversees every guest's care plan and is available around the clock during their stay.
+DEEPPLANE
+For the deep plane facelift pathway, the indicative clinic fee is €10,000–€25,000 and recovery planning is 5–15 days. Your English-speaking surgeon confirms the exact scope, any additional procedures, reviews and safe travel date. BRC accommodation, coordination, recovery services are quoted separately. You arrange your own flights and transport.
+Para lifting deep plane: honorarios orientativos de clínica de 10.000–25.000 € y planificación de recuperación de 5–15 días. El cirujano confirma el alcance, revisiones y fecha segura de viaje. Coordinación, alojamiento y recuperación se presupuestan aparte salvo inclusión expresa.
 
-Susana speaks Spanish, Catalan, and English fluently, and can coordinate with medical teams and family members in all three languages.
+BODY
+The body-contouring planning range is €10,000–€15,000 for clinic fees and 5–15 days for local recovery planning. The surgeon must define the operation, areas and any stages; this is not a whole-body or combined-surgery promise. BRC accommodation, recovery, and coordination are additional. You arrange your own flights and transport. The individual recovery and return date follow the surgeon’s instructions.
+Para contorno corporal: honorarios orientativos de clínica de 10.000–15.000 € y planificación de recuperación de 5–15 días. El cirujano define intervención, zonas y etapas. Coordinación, alojamiento, recuperación y viajes son adicionales salvo inclusión expresa.
 
-Her warm personality and professional expertise have earned her the trust of dozens of surgeons who refer their patients to BCN Recovery Care by name. Many guests return for subsequent procedures specifically because of the confidence and comfort Susana provides.
+PROCEDURES
+The UK offer currently focuses on lipedema surgery, deep plane facelift and body contouring. You can ask BRC about another procedure, but availability requires confirmation of the appropriate surgeon, clinic and recovery arrangements. Only the surgeon can decide suitability after consultation.
+La propuesta internacional se centra en lipedema, lifting deep plane y contorno corporal. Puedes consultar otras intervenciones; la disponibilidad del cirujano, clínica y recuperación debe confirmarse. La idoneidad la decide el cirujano.
 
----
+RECOVERY
+Your BRC proposal confirms private accommodation and the post-operative recovery treatments you have agreed, following your surgeon’s instructions. Treatment type, frequency and provider are confirmed for your case. BRC also helps select and coordinate with your surgeon. We do not provide nursing services, hospital beds or adapted meals, and we do not arrange flights or transport.
+Tu propuesta BRC confirma el alojamiento privado y los tratamientos postoperatorios acordados, según las instrucciones del cirujano. Se confirman tratamiento, frecuencia y profesional para tu caso. También ayudamos a seleccionar y coordinar con tu cirujano. No ofrecemos enfermería, camas hospitalarias ni comidas adaptadas, y no organizamos vuelos o transportes.
 
-## OUR RECOVERY APARTMENTS
+BOOKING
+You can start with WhatsApp on +34 618 254 217. Complete the private enquiry form before the free 20–30 minute welcome call with Yaron and Susana. Yaron reviews your form within one business day. BRC helps you select an independent surgeon and coordinates with the selected surgeon and clinic. A suitable enquiry then moves to an online consultation with an English-speaking surgeon, followed by separate clinic and BRC proposals. Submitting a form does not guarantee clinical acceptance.
+Empieza por WhatsApp +34 618 254 217 y completa el formulario privado antes de la llamada gratuita de 20–30 minutos con Yaron y Susana. Yaron revisa la solicitud en un día laborable. BRC te ayuda a seleccionar un cirujano independiente y coordina con el cirujano y la clínica elegidos. Después puede organizarse una consulta online con un cirujano que habla inglés y propuestas separadas de clínica y BRC. La aceptación clínica requiere valoración.
 
-BCN Recovery Care operates a small number of fully equipped recovery apartments in L'Hospitalet de Llobregat, designed specifically for post-operative patients.
+PAYMENTS
+The clinic charges consultation and surgery directly under its own terms. BRC quotes coordination, accommodation and recovery separately. Coordination is paid 50% after surgeon approval and your instruction to proceed, and 50% when the surgery date is fixed. Accommodation and recovery are paid 50% on reservation and 50% on arrival in Barcelona. You receive the amounts, inclusions and cancellation conditions in writing before payment.
+La clínica factura la cirugía según sus propias condiciones. La coordinación BRC se paga en dos hitos del 50%: tras la aceptación del cirujano y tu instrucción de continuar, y al fijar fecha. Para alojamiento y recuperación: 50% al reservar y 50% al llegar. Confirma conceptos e importes en la propuesta escrita.
 
-### General Features (all apartments)
-- Private, fully furnished rooms with adjustable hospital-grade beds
-- Blackout curtains and climate control for optimal rest
-- Private bathroom with walk-in shower and non-slip flooring
-- 24/7 nursing supervision and on-call care
-- Daily wound dressing changes and medication management
-- Compression garment fitting and management
-- Nutritious, recovery-adapted meals prepared daily (dietary requirements accommodated)
-- Secure, quiet building — no street noise
-- Free Wi-Fi
-- Television with international channels
-- Daily light housekeeping
-- Wheelchair and mobility aid access
+PRICE
+Indicative clinic fees are €8,000–€12,000 for lipedema, €10,000–€25,000 for deep plane facelift and €10,000–€15,000 for body contouring. These are not total prices. BRC quotes surgeon-selection and coordination support, private accommodation and agreed recovery treatments separately. You arrange and pay for your own flights and transport.
+Honorarios orientativos de clínica: lipedema 8.000–12.000 €, lifting deep plane 10.000–25.000 € y contorno corporal 10.000–15.000 €. No son precios totales. BRC presupuesta por separado apoyo en selección y coordinación del cirujano, alojamiento privado y tratamientos de recuperación acordados. Organizas y pagas tus propios vuelos y transportes.
 
-### Apartment Types
+TRAVEL
+You arrange your own flights and all transport, including airport and clinic journeys. BRC does not book, arrange or coordinate transport. The current pathway plans arrival two days before surgery; your surgeon confirms the minimum stay, reviews and safe return date. Recovery planning periods are not permission to fly.
+Organizas tus propios vuelos y todos los transportes, incluidos los trayectos al aeropuerto y a la clínica. BRC no reserva, organiza ni coordina transportes. El plan actual contempla llegar dos días antes de la cirugía; tu cirujano confirma estancia mínima, revisiones y fecha segura de regreso. Los plazos orientativos no autorizan a volar.
 
-**Standard Recovery Room**
-A comfortable private room for single-procedure recoveries. Ideal for rhinoplasty, blepharoplasty, or minor liposuction patients. Includes single adjustable bed, private bathroom, and access to shared lounge area.
+CONSULTATION
+Yaron and Susana both join your free BRC welcome call. We work with surgeons who can consult directly in English; their clinical consultation is online initially, with any further review arranged by the clinic. Consultation fees are confirmed by the clinic. If Yaron is unavailable, Susana handles written messages and calls are scheduled when he can join.
+Primero hay una llamada de bienvenida gratuita con Yaron y Susana. La consulta clínica inicial puede ser online y se organiza con un cirujano que habla inglés. El cirujano decide idoneidad, pruebas y plan quirúrgico. Confirma por escrito el coste de la consulta y sus condiciones.
 
-**Premium Recovery Suite**
-A larger private suite with sitting area, suitable for more complex recoveries such as abdominoplasty, breast surgery, or combined procedures. Includes recliner chair (essential for certain post-op positions), mini fridge, and enhanced privacy.
+PRIVACY
+The enquiry form collects general contact and practical information; do not upload medical records or intimate photographs there or into this chat. The clinic confirms its approved protected route for clinical information before you send it. BRC keeps the minimum operational information needed for coordination and records your authority before sharing. Chat questions stay in this browser and are not stored by this guide.
+El formulario inicial recoge solo lo necesario para valorar tu solicitud. No envíes fotografías íntimas ni documentación clínica sensible por este chat. El equipo confirma el canal adecuado, permisos y acceso antes de intercambiar documentación clínica.
 
-**Family Companion Suite**
-Our largest option, designed for patients who wish to have a family member or companion stay with them. Includes a second bed for the companion, larger bathroom, and a private outdoor terrace area for fresh air and gentle walks during recovery.
+REFUNDS
+Clinic and BRC bookings have separate cancellation and refund conditions. We provide the applicable written terms before you pay. The exact reservation refund calculation is still being finalised, so the guide cannot promise a fixed percentage. Yaron and Susana handle changes and exceptions together; clinic decisions and clinic charges follow the clinic’s terms.
+Los detalles de cancelación y devolución deben quedar definidos por escrito antes de pagar. Las notas contemplan una devolución parcial hasta 15 días antes y devolución ante pruebas desfavorables, pero importes, conceptos y fechas de referencia están pendientes de concretar. La clínica aplica sus propias condiciones.
 
-### Location Advantages
-- 5 minutes by taxi from Clínica Tres Torres and other major Barcelona aesthetic clinics
-- 10 minutes from Hospital Universitari de Bellvitge
-- Close to pharmacy, supermarket, and park for gentle post-recovery walks
-- Easy airport transfer coordination (El Prat airport, 15 minutes)
+EXTENSION
+Extra accommodation nights and extra recovery services are charged according to the agreed daily quote and availability. BRC provides additional administrative help for an extended stay or clinic readmission without another coordination fee. Medical assessment, admission and clinical charges remain with the clinic.
+Las noches o servicios adicionales se facturan por día según el presupuesto acordado. El apoyo administrativo para una estancia ampliada o reingreso no tiene coste adicional; alojamiento, tratamientos y gastos clínicos se gestionan por separado. La clínica decide el manejo médico.
 
----
+CREDENTIALS
+You receive the surgeon’s identity and clinic details before deciding. BRC’s partner process gathers professional registration, specialty, relevant experience, clinic setting, professional insurance information and follow-up arrangements. Ask for the evidence and discuss risks directly with the surgeon. The guide does not confirm a particular provider’s credentials or promise insured outcomes.
+Recibes la identidad del cirujano y los datos de la clínica antes de decidir. Solicita evidencia de registro profesional, especialidad, experiencia, seguro profesional y seguimiento. Este asistente no confirma credenciales ni garantiza cobertura de un proveedor concreto.
 
-## RECOVERY SERVICES — WHAT WE OFFER
-
-### Core Medical Care
-- Vital signs monitoring (blood pressure, oxygen saturation, temperature, heart rate)
-- Pain management coordination with your surgeon
-- Wound inspection, dressing changes, and drainage monitoring
-- Medication administration and scheduling
-- Lymphatic drainage massage (manual, certified therapist)
-- Compression garment management and education
-- Scar care protocol initiation
-- Swelling and bruising management (cold therapy, elevation protocols)
-- Early ambulation assistance and guidance
-- Emergency contact coordination with your surgical team
-
-### Comfort & Wellbeing
-- Personalised nutrition plan (anti-inflammatory, high-protein recovery meals)
-- Hydration monitoring
-- Sleep positioning guidance and wedge pillow provision
-- Emotional support and anxiety management
-- Family updates and communication (with patient consent)
-- Transportation coordination (to follow-up appointments, airport)
-- Translation assistance for non-Spanish speakers
-
----
-
-## RECOVERY GUIDES BY PROCEDURE TYPE
-
-### Rhinoplasty (Nose Surgery)
-Typical recovery stay: 3–5 days
-
-The first 48 hours after rhinoplasty are the most critical. Swelling and bruising around the nose and eyes are normal and peak around day 2–3. Patients must sleep with the head elevated at 30–45 degrees to reduce swelling. Cold compresses are applied around (never on) the nose. A nasal splint is worn for approximately one week.
-
-At BCN Recovery Care we monitor for signs of excessive bleeding, breathing difficulty, or infection. We coordinate splint removal with your surgeon. Patients should avoid blowing their nose, wearing glasses, or any contact with the nose area for at least 3 weeks post-surgery.
-
-Our care includes: head-elevation positioning, cold compress protocol, medication timing, nasal hygiene guidance, and liaison with your surgical team.
-
-### Breast Augmentation
-Typical recovery stay: 3–5 days
-
-After breast augmentation patients experience tightness, soreness, and limited arm mobility for the first several days. Post-operative bra fitting and care is critical. Patients should avoid lifting arms above shoulder height for 2 weeks and any strenuous activity for 4–6 weeks.
-
-We monitor for signs of hematoma, implant displacement, or infection. We assist with dressing changes, correct bra fitting, and sleeping position (slightly reclined for the first nights). Lymphatic drainage from day 3 helps reduce swelling and fibrosis.
-
-### Breast Reduction / Mastopexy (Breast Lift)
-Typical recovery stay: 4–6 days
-
-These procedures involve more extensive incisions than augmentation, requiring careful wound management. Drains may be present for the first 1–2 days. We manage drain output, perform daily dressing changes, and monitor for seroma formation.
-
-Lymphatic drainage massage begins once wounds are sufficiently healed (typically day 3–4). Compression is essential throughout recovery.
-
-### Abdominoplasty (Tummy Tuck)
-Typical recovery stay: 5–7 days
-
-Abdominoplasty is one of the more demanding recoveries we manage. Patients spend the first days in a flexed position (slightly bent at the waist) to reduce tension on the abdominal closure. Walking in this position is gradually introduced from day 1.
-
-Compression garments must be worn 24 hours a day for the first 4–6 weeks. We manage abdominal binders, monitor drain output, assist with mobility, and begin lymphatic drainage from day 2–3. Nutrition focuses on high protein and anti-inflammatory foods to support tissue healing.
-
-### Liposuction
-Typical recovery stay: 2–4 days (depending on extent)
-
-Liposuction recovery involves significant swelling and bruising in treated areas. Compression garments are critical and must be worn continuously. Lymphatic drainage massage is one of the most important elements of liposuction recovery and is started as early as day 2 to reduce fibrosis (hardening of tissue) and accelerate visible results.
-
-We offer daily lymphatic drainage sessions, compression garment management, and skin care in treated areas.
-
-### Brazilian Butt Lift (BBL)
-Typical recovery stay: 5–7 days
-
-BBL recovery requires strict positioning protocols — patients must avoid sitting or lying directly on the buttocks for 2–6 weeks. We provide special BBL cushions and positioning guidance. This is one of the most positioning-dependent recoveries we manage.
-
-Compression on the donor liposuction areas is also managed. Lymphatic drainage begins early. We provide 24/7 monitoring as BBL carries specific risks that require vigilant observation in the early post-operative period.
-
-### Facelift (Rhytidectomy)
-Typical recovery stay: 4–6 days
-
-Facelift recovery requires careful bandage management, drain monitoring, and swelling control. Head elevation is maintained at all times. Cold therapy is applied carefully to reduce bruising and swelling. Patients must avoid any neck tension or sudden movements.
-
-We assist with gentle facial hygiene, hair washing guidance, and preparation for suture/staple removal.
-
-### Blepharoplasty (Eyelid Surgery)
-Typical recovery stay: 3–4 days
-
-Eyelid surgery results in significant bruising and swelling around the eyes for the first week. Cold compresses, prescribed eye drops, and head elevation are central to recovery. We monitor for dry eyes, excessive tearing, or any visual changes that would require immediate medical attention.
-
-### Combined Procedures (e.g. Mummy Makeover)
-Typical recovery stay: 7–10 days
-
-Patients undergoing multiple procedures simultaneously (e.g. breast augmentation + abdominoplasty + liposuction) require extended and more intensive care. Recovery protocols are combined and carefully sequenced. Pain management is more complex and is coordinated closely with the surgical team.
-
----
-
-## PRICING AND PACKAGES
-
-Pricing is available on request and depends on procedure type, length of stay, and level of care required. We offer:
-
-- Daily rate (minimum 2 nights)
-- Package rates for 3, 5, and 7-night stays
-- Extended stay discounts
-- International patient packages (includes airport transfer coordination)
-
-Please contact us directly for a personalised quote. We are happy to coordinate with your surgeon's office to recommend the appropriate length of stay.
-
----
-
-## FREQUENTLY ASKED QUESTIONS
-
-**Do I need a referral from my surgeon?**
-No. You can book directly with us. However, we always coordinate with your surgical team to ensure continuity of care.
-
-**Can a family member stay with me?**
-Yes. Our Family Companion Suite is designed exactly for this. One companion can stay with you throughout your recovery.
-
-**What languages do you speak?**
-Susana and the team speak Spanish, Catalan, and English. We can arrange translation support for other languages.
-
-**Are you a medical clinic?**
-We are a supervised recovery residence, not a hospital or clinic. We provide nursing-level care but are not equipped for surgical emergencies. In the event of a serious complication, we coordinate immediate transfer to hospital.
-
-**Can I have visitors?**
-Yes, with some restrictions during the first 24–48 hours when rest is paramount. We ask that visitors respect quiet hours (10pm–9am).
-
-**Do you offer lymphatic drainage massage?**
-Yes. We have a certified lymphatic drainage therapist who visits regularly. Sessions are included in some packages or can be added individually.
-
-**What should I bring?**
-We provide most essentials (linens, towels, basic toiletries). We recommend bringing: comfortable loose clothing that opens at the front, your prescribed medications, your pre-op documents, phone charger, and any personal comfort items.
-
-**How do I book?**
-Contact us by phone, WhatsApp, or the contact form on our website. We recommend booking at least 2 weeks before your procedure date, especially during high season (spring and summer).
-
----
-
-## CONTACT
-
-Website: bcnrecoverycare.es
-Location: L'Hospitalet de Llobregat, Barcelona, Spain
-Languages: Spanish, English, Catalan
-
-For bookings and enquiries, please use the contact form on our website or reach out via WhatsApp.
-
----
-
-*This knowledge base is for internal AI assistant use. Information should be conveyed warmly and professionally. Always recommend contacting Susana directly for specific medical questions, pricing, or booking.*
+CONTACT
+Message BRC on WhatsApp at +34 618 254 217 or email info@bcnrecoverycare.es. General enquiries are reviewed within one business day. The welcome call follows the mandatory form. BRC contact is for coordination; for clinical concerns use your clinic’s urgent contact, and for an emergency in Spain call 112.
+WhatsApp: +34 618 254 217. Email: info@bcnrecoverycare.es. Revisamos las consultas generales en un día laborable. Para preocupaciones clínicas, contacta con tu clínica; en una emergencia en España llama al 112.
