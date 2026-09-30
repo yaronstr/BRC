@@ -33,6 +33,18 @@
     .package-cards{grid-template-columns:repeat(3,minmax(0,1fr))}.package-cards .card{padding:28px}.package-cards h3{font-size:2rem}.package-budget{border-top:1px solid var(--line);padding:18px 0;margin-bottom:22px}.package-budget summary{cursor:pointer;color:var(--deep);font-weight:600;font-size:1rem;line-height:1.5}.package-budget div{padding-top:16px;font-size:.9rem;color:var(--muted)}.budget-note{font-size:.9rem;line-height:1.65;color:var(--muted);margin-top:28px;max-width:1050px}.eyebrow{font-size:.875rem}.tag{font-size:.875rem;letter-spacing:.04em}.step p,.role p,.contact-alt,.principle p,.chat-note{font-size:.9rem}.topbar,.foot,.legal{font-size:.875rem}.hero-content{width:min(590px,calc(100% - 40px));margin-left:max(20px,calc((100% - 1160px)/2));margin-right:0}.hero h1{font-size:clamp(3.1rem,5.5vw,5.4rem)}@media(max-width:1000px){.package-cards{grid-template-columns:1fr}.hero::after{inset:0 0 0 62%}.hero-content{max-width:58%}}@media(max-width:850px){.hero-content{max-width:none;margin:auto;width:calc(100% - 40px)}.hero::after{inset:auto 0 0}.package-cards{grid-template-columns:1fr}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.reveal{opacity:1;transform:none;transition:none}}
       .topbar a{color:inherit;text-underline-offset:3px;font-weight:600;white-space:nowrap}
       .site-switch{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}.site-switch a{margin-left:auto}.site-switch span{text-align:left}
+  
+    .hero{min-height:0;display:block;padding:0}
+    .hero::after{display:none}
+    .hero-layout{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:64px;align-items:center;padding-top:64px;padding-bottom:64px}
+    .hero-content{width:auto;max-width:none;margin:0;padding:0}
+    .hero h1{font-size:clamp(3rem,5vw,4.75rem)}
+    .hero-portrait{width:300px;max-width:100%;margin:0}
+    .hero-portrait img{display:block;width:100%;height:auto;border-radius:20px}
+    @media(max-width:1000px){.hero-layout{grid-template-columns:minmax(0,1fr) 260px;gap:36px}.hero-portrait{width:260px}.hero-content{max-width:none}}
+    @media(max-width:850px){.hero-layout{grid-template-columns:1fr;gap:32px;padding-top:44px;padding-bottom:44px}.hero-content{width:auto;margin:0}.hero-portrait{width:240px;margin:0 auto}.hero{padding-bottom:0}}
+    @media(max-width:560px){.hero h1{font-size:3.1rem}.hero-portrait{width:220px}}
+
   </style>
   <noscript><style>.reveal{opacity:1;transform:none}</style></noscript>
 </head>
@@ -44,12 +56,15 @@
   </header>
   <main id="top">
     <section class="hero">
-      <div class="wrap hero-content">
+      <div class="wrap hero-layout">
+      <div class="hero-content">
         <div class="eyebrow">A boutique Barcelona pathway for UK patients</div>
         <h1>Elite surgeons.<br><span>Personal care.</span><br>Barcelona.</h1>
         <p class="lede">Established English-speaking Barcelona surgeons, more than 20 years of post-operative experience and personal accompaniment from your first conversation through your recovery stay.</p>
         <div class="hero-actions"><a class="button primary" href="#contact">Complete the private enquiry</a><a class="button ghost" href="https://wa.me/34618254217?text=Hello%20BRC%2C%20I%20am%20interested%20in%20your%20Barcelona%20surgery%20and%20recovery%20pathway." target="_blank" rel="noopener">Message us on WhatsApp</a></div>
         <div class="trustline"><div><strong>Elite specialists</strong>selected for relevant expertise</div><div><strong>20+ years</strong>of practical recovery experience</div><div><strong>Boutique service</strong>private, personal and discreet</div></div>
+      </div>
+      <figure class="hero-portrait"><img src="/assets/susu.jpg" alt="Susana, Barcelona Recovery Care" decoding="async" fetchpriority="high"></figure>
       </div>
     </section>
 
